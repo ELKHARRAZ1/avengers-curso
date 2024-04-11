@@ -1,3 +1,4 @@
 # Misiones
 
-Invistigar los planes del DR.Doo
+* Invistigar los planes del DR.Doo
+* Capturar a Red Skull
